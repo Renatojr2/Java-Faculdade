@@ -8,6 +8,13 @@
       "type": "java",
       "name": "CodeLens (Launch) - principal",
       "request": "launch",
+      "mainClass": "gridLayout.principal",
+      "projectName": "Exercicios_bcf0dd44"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - principal",
+      "request": "launch",
       "mainClass": "exemplo2.principal",
       "projectName": "Exercicios_bcf0dd44"
     },
